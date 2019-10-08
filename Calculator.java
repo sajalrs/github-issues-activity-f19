@@ -18,6 +18,7 @@ public class Calculator {
 	 * @param y
 	 *            a double
 	 * @return x + y
+	 * :)
 	 */
 	public double plus(double x, double y) {
 		return x + y;
@@ -33,7 +34,7 @@ public class Calculator {
 	 * @return x - y
 	 */
 	public double sub(double x, double y) {
-		return y - x;
+		return x - y;
 	}
 
 	/**
